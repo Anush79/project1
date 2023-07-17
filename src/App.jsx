@@ -6,10 +6,9 @@ function App() {
 
   return (
     <>
-  <h1>Hello 
-    { import.meta.env.VITE_SECRET_KEY }   
+  <h1>Hello
     World</h1>
-<p className='text-red-500'>this is anushka jaiswal</p>
+<p className='text-red-500'>This is anushka jaiswal</p>
     </>
   )
 }
